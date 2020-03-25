@@ -1,0 +1,2 @@
+# RecruitStatusWeeklyReport
+透過Talent產生的檔案,產生駐場會議需要的檔案
